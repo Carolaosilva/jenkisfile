@@ -27,9 +27,9 @@ pipeline {
  echo "Running the integration test..."  } 
  } 
  } 
-  stage('Five') { 
+ stage('Five') { 
  steps { 
- echo "Montag Unterricht"
+ echo "Montag Unterricht" }
  } 
  } 
  } 
