@@ -27,6 +27,11 @@ pipeline {
  echo "Running the integration test..."  } 
  } 
  } 
+  stage('Five') { 
+ steps { 
+ echo "Exit"
+ } 
+ } 
  } 
  } 
 }
