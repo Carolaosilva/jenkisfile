@@ -29,7 +29,7 @@ pipeline {
  } 
   stage('Five') { 
  steps { 
- echo "Exit"
+ echo "Montag Unterricht"
  } 
  } 
  } 
